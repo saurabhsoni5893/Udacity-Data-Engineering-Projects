@@ -109,7 +109,7 @@ Project Template include four files:
 13. Now can delete the cluster, roles and assigned permission
 
 ## How to Run
-#### Use [Redshift_Cluster_IaC.py](https://github.com/san089/Data_Engineering_Projects/blob/master/Redshift_Cluster_IaC.py "Redshift_Cluster_IaC.py") from [Udacity_Data_Engineering_Projects](https://github.com/saurabhsoni5893/Udacity-Data-Engineering-Projects) to launch Redshift Cluster.
+#### Use [Redshift_Cluster_IaC.py](https://github.com/saurabhsoni5893/Udacity-Data-Engineering-Projects/blob/master/Redshift_Cluster_IaC.py "Redshift_Cluster_IaC.py") from [Udacity_Data_Engineering_Projects](https://github.com/saurabhsoni5893/Udacity-Data-Engineering-Projects) to launch Redshift Cluster.
 
 #### Setup Configurations 
 Setup the dwh.cfg file. File format for **dwh.cfg**
